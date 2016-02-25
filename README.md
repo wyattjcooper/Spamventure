@@ -1,6 +1,8 @@
 # Spamventure
 Text based adventure written in Prolog 
+
 CS60 Spring 2015 Assignment
+
 Win the game by discovering who killed the captain (actually there is much more to it than that but that would be spoilers)
 you have amnesia, so there is chance you might forget where you are and wind up in a mystery location!
 other features: use of a maybe (random probability) to determine when you get lost
